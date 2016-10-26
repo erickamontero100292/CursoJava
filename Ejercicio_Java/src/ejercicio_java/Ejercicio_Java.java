@@ -16,7 +16,7 @@ public class Ejercicio_Java {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-//        Multiplicar mul = new Multiplicar(0);
+//        Multiplicar muliplo = new Multiplicar(0);
         SerieNumerica serie = new SerieNumerica(8);
 //      Factorial facto = new Factorial(4);
 //        Matrices_Estructura matriz = new Matrices_Estructura();
